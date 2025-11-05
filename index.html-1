@@ -1,1 +1,33 @@
+<html>
+<head>
+<title>TechCart - Home</title>
+</head>
+<body>
+
+<header>
+<h1>Welcome to TechCart</h1>
+<marquee><b>50% OFF Sale — Hurry Up!</b></marquee>
+</header>
+
+<nav>
+<a href="index.html">Home</a> |
+<a href="products.html">Products</a> |
+<a href="cart.html">My Cart</a> |
+<a href="login.html">Login</a> |
+<a href="about.html">About</a> |
+<a href="contact.html">Contact</a>
+</nav>
+<hr>
+
+<p>Best online store for <b>Mobiles</b>, <b>Laptops</b> & <b>Accessories</b>!</p>
+
+<center>
+<img src="https://via.placeholder.com/400x200">
+</center>
+
+<hr>
+<small>© 2025 TechCart Ecommerce</small>
+
+</body>
+</html>
 
