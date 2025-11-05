@@ -1,0 +1,7 @@
+<html>
+<body>
+<h1>Blood Donation Camp</h1>
+<p>Organized by <b>Red Cross Society</b></p>
+<p><i>Venue:</i> City Hospital</p>
+</body>
+</html>
